@@ -1,0 +1,16 @@
+{
+  "name": "curso_node",
+  "version": "1.0.0",
+  "description": "Projeto de testes",
+  "main": "news.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Lima",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
